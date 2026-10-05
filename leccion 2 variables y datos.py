@@ -14,4 +14,4 @@ print("altura", altura, "metros")
 año_nacimiento=2026-edad
 print("/nNaci aproximadamente en el año 2009:", año_nacimiento)
 edad= 17
-print ("¡ahora tengo", edad, "años!") 
+print ("¡ahora tengo", edad, "años!")
